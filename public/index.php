@@ -15,4 +15,10 @@ class index
     public function index2(){
         return;
     }
+    public function  index3(){
+        return ;
+    }
+    public function index4(){
+        return;
+    }
 }
