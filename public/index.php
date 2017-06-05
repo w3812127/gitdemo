@@ -11,4 +11,8 @@ class index
     public function index(){
         return ;
     }
+
+    public function index2(){
+        return;
+    }
 }
