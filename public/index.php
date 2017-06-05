@@ -19,6 +19,6 @@ class index
         return ;
     }
     public function index4(){
-        return;
+        return 99999;
     }
 }
